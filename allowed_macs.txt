@@ -1,5 +1,5 @@
 # Lenovo - My laptop
-40:1C:83:38:C0:E800
+40:1C:83:38:C0:E8
 
 # Dell - Friend's laptop
 10-7B-44-AA-BB-CC
