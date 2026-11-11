@@ -1,5 +1,5 @@
 # Lenovo - My laptop
-#40:1C:83:38:C0:E8
+40:1C:83:38:C0:E8
 
 # Dell - Salah laptop
 FC-77-74-CB-AD-E0
